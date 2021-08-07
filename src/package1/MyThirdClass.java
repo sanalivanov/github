@@ -7,5 +7,8 @@ public class MyThirdClass {
         System.out.println(sum);
 
         int y = 0;
+        
+        
+        System.out.println("This is remote report code");
     }
 }
